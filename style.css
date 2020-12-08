@@ -1,0 +1,56 @@
+.container {
+    border-color: 1px solid lightgrey;
+    width: 600px;
+
+}
+
+.caculatorborder {
+    border-color: 1px solid lightgrey;
+}
+
+.button-square {
+    background-color: white;
+    width: 60px;
+    height: 50px;
+    border-radius: 5px;
+}
+
+.result {
+    background-color: black;
+    width: 250px;
+    height: 50px;
+}
+
+.operator {
+
+}
+
+.firstrow {
+
+}
+
+.secondrow {
+
+}
+
+.thirdrow {
+
+}
+
+.lastrow {
+
+}
+
+.button-square_AC {
+    background-color: red;
+    width: 60px;
+    height: 50px;
+    border-radius: 5px;
+}
+.equal {
+    background-color: blue;
+    color: white;
+    height: 250px;
+    width: 60px;
+
+}
