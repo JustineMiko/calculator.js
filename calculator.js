@@ -1,11 +1,12 @@
 'use strict'
+
 export default class Calculator {
     constructor() {
         // élément de div qui encadre toute la calculette
         const calculatorDiv = document.createElement('div');
         calculatorDiv.classList.add('calculatorborder', 'container');
-        body.append(calculatorDiv);
         const body = document.body;
+        body.append(calculatorDiv);
 
         
         //élément div qui encadre la barre preview:
@@ -132,7 +133,6 @@ export default class Calculator {
         const equalButton = document.createElement('div');
         equalButton.classList.add('equal', 'col-md-3');
         equalDiv.append(equalButton);
-
 
     }  
 }
