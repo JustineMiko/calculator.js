@@ -13,12 +13,14 @@
     width: 60px;
     height: 50px;
     border-radius: 5px;
+    color: black;
 }
 
 .result {
     background-color: black;
     width: 250px;
     height: 50px;
+    color: white;
 }
 
 .button-square_AC {
@@ -26,6 +28,7 @@
     width: 60px;
     height: 50px;
     border-radius: 5px;
+    color: white;
 }
 .equal {
     background-color: blue;
